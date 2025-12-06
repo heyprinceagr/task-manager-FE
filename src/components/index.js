@@ -1,8 +1,0 @@
-export { default as Icon } from "./icon"
-export { default as Navbar } from "./navbar"
-export { default as SingUpPageComponent } from "./singUpPageComponent"
-export { default as LoginPageComponent } from "./loginPageComponent"
-export { default as ProtectedRoute } from "./protectedRoute"
-export { default as PublicRoute } from "./publicRoute"
-export { default as AddTaskModal } from "./addTaskModal"
-export { default as AllTaskList } from "./allTaskList"
